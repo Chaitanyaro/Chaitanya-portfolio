@@ -4,6 +4,13 @@ import { motion } from "framer-motion";
 const Experience = () => {
   const experiences = [
     {
+      role: "Trainee - Product Solution Engineering",
+      company: "Smart Energy Water (SEW.AI)",
+      period: "Jan 2026 – Present",
+      description:
+        "Driving digital transformation for global utility providers.",
+    },
+    {
       role: "Conference Chair",
       company: "STELMAR 2025",
       period: "Feb 2025 – Apr 2025",

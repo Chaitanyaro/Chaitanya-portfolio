@@ -41,20 +41,21 @@ const About = () => {
               transition={{ duration: 0.6 }}
             >
               <h2 className="font-serif text-3xl md:text-4xl mb-6 text-brand-black">
-                More Than Just Code.
+                Strategic Engineering. Global Impact.
               </h2>
               <p className="text-brand-gray text-lg leading-relaxed mb-6">
-                I am a final-year Computer Science student specializing in Data
-                Science & AI, but my ambition extends beyond the IDE. I see
-                myself as a builder—whether it's architecting a complex AI
-                pipeline or leading a team of 80+ people for a major research
-                conference.
+                As a <strong>Product Solution Engineer</strong> at{" "}
+                <strong>Smart Energy Water</strong>, I drive digital
+                transformation for the energy and water sectors. My focus lies
+                in architecting strategic solutions that address critical
+                utility challenges at a global scale.
               </p>
               <p className="text-brand-gray text-lg leading-relaxed">
-                My goal is simple: to leverage technology to build scalable
-                systems and solve high-stakes problems. From optimizing factory
-                operations to developing autonomous DevOps agents, I combine
-                technical depth with a strategic, business-centric mindset.
+                I bridge the gap between complex technical capabilities and
+                business value, ensuring that every system I build delivers
+                measurable impact. Whether optimizing operations or integrating
+                AI, I approach every challenge with a focus on scalability,
+                efficiency, and long-term strategic growth.
               </p>
             </motion.div>
 

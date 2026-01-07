@@ -13,7 +13,7 @@ const Hero = () => {
           transition={{ duration: 0.5 }}
           className="block text-brand-gray text-sm md:text-base font-medium mb-6 tracking-wide"
         >
-          AI & DATA SCIENCE | STRATEGIC PROBLEM SOLVER
+          PRODUCT SOLUTION ENGINEER @ SMART ENERGY WATER
         </motion.span>
 
         {/* Main Headline */}
@@ -34,7 +34,7 @@ const Hero = () => {
           transition={{ duration: 0.5, delay: 0.2 }}
           className="text-brand-gray text-lg md:text-xl max-w-2xl leading-relaxed mb-10"
         >
-          I craft AI-powered systems that merge design, data, and strategy to
+          I craft AI-powered systems that merge design, data and strategy to
           create lasting impact. Focused on scalable architecture and
           business-centric innovation.
         </motion.p>
