@@ -5,7 +5,7 @@ const About = () => {
   const stats = [
     { label: "Projects Completed", value: "15+" },
     { label: "Team Members Led", value: "80+" },
-    { label: "Research Papers", value: "2" },
+    { label: "Research Works", value: "2" },
     { label: "CAT 2025 Percentile", value: "95.78" },
   ];
 
