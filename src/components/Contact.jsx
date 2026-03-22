@@ -70,7 +70,7 @@ const Contact = () => {
 
         {/* Footer */}
         <div className="border-t border-white/10 pt-8 text-white/40 text-sm">
-          <p>&copy; 2025 Prakhar Srivastava. All rights reserved.</p>
+          <p>&copy; 2025 Chaitanya Arora. All rights reserved.</p>
           <p className="mt-2 text-xs">Built with React & Tailwind.</p>
         </div>
       </div>
