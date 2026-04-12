@@ -5,20 +5,20 @@ import { Github, ExternalLink, ArrowUpRight } from "lucide-react";
 const Projects = () => {
   const researchProjects = [
     {
-      title: "AI-Driven Self-Healing CI/CD Pipeline",
-      category: "DevOps & AI",
+      title: "Multimodal Hate Speech Classifier",
+      category: "Research + ML",
       description:
-        "An autonomous system that detects pipeline failures and injects AI-generated code fixes, reducing MTTR by 77%.",
-      stack: ["Python", "PyTorch", "Docker", "Jenkins"],
-      link: "https://github.com/prakharr5",
+        "A system designed to detect harmful content across languages and formats.",
+      stack: ["Python", "NLP", "Scikit-learn", "Transformers", "OpenCV"],
+      
     },
     {
-      title: "Smart EV Digital Cockpit",
+      title: "Placement Analytics Dashboard",
       category: "IoT & Embedded Systems",
       description:
-        "Production-ready EV dashboard with Digital Twin visualization. Decouples sensor data from UI using WebSockets for 60 FPS performance.",
-      stack: ["Flutter", "Python", "IoT", "Raspberry Pi"],
-      link: "https://github.com/prakharr5",
+        "A data-driven approach to understanding placement trends.",
+      stack: ["Excel", "Data Visualization"],
+      
     },
     {
       title: "Jotto Solver (Research)",
@@ -26,7 +26,7 @@ const Projects = () => {
       description:
         "Research-based word game solver using graph-theoretic algorithms and statistical distribution analysis.",
       stack: ["Python", "Graph Theory", "Selenium"],
-      link: "https://jotto.bmu.edu.in/",
+      
     },
   ];
 
@@ -37,7 +37,7 @@ const Projects = () => {
       description:
         "Designed the official digital interface to centralize factory data, deployed 2 weeks ahead of schedule.",
       stack: ["ReactJS", "Digital Transformation"],
-      link: "https://bpalloys.in/",
+      
     },
     {
       title: "SubSaFT Official Site",
@@ -45,7 +45,7 @@ const Projects = () => {
       description:
         "Fully SEO-optimized official website for a startup client, handling end-to-end development and deployment.",
       stack: ["Web Dev", "SEO", "Analytics"],
-      link: "https://subsaft.com/",
+      
     },
     {
       title: "BMU ACM Chapter Website",
@@ -53,7 +53,7 @@ const Projects = () => {
       description:
         "Official chapter website serving hundreds of students. Managed 99.9% uptime and event registration funnels.",
       stack: ["React", "Event Management"],
-      link: "https://acmbmu.com/",
+      
     },
   ];
 

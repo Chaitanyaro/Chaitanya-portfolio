@@ -13,7 +13,7 @@ const Hero = () => {
           transition={{ duration: 0.5 }}
           className="block text-brand-gray text-sm md:text-base font-medium mb-6 tracking-wide"
         >
-          PRODUCT SOLUTION ENGINEER @ SMART ENERGY WATER
+          Product & Business Analysis Enthusiast | Strategy × Data × Execution
         </motion.span>
 
         {/* Main Headline */}
@@ -34,9 +34,10 @@ const Hero = () => {
           transition={{ duration: 0.5, delay: 0.2 }}
           className="text-brand-gray text-lg md:text-xl max-w-2xl leading-relaxed mb-10"
         >
-          I craft AI-powered systems that merge design, data and strategy to
-          create lasting impact. Focused on scalable architecture and
-          business-centric innovation.
+          I work at the intersection of strategy, analytics, and execution—transforming ambiguous 
+          problems into clear, actionable solutions. With experience leading large-scale initiatives 
+          and working with diverse stakeholders, I focus on building systems that create
+           measurable impact.
         </motion.p>
 
         {/* CTA Buttons */}

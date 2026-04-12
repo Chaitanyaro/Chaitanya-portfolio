@@ -3,10 +3,9 @@ import { motion } from "framer-motion";
 
 const About = () => {
   const stats = [
-    { label: "Projects Completed", value: "15+" },
-    { label: "Team Members Led", value: "80+" },
+    { label: "Projects & Initiatives Led", value: "15+" },
+    { label: "Team Members Led", value: "100+" },
     { label: "Research Works", value: "2" },
-    { label: "CAT 2025 Percentile", value: "95.78" },
   ];
 
   return (
@@ -42,14 +41,20 @@ const About = () => {
               transition={{ duration: 0.6 }}
             >
               <h2 className="font-serif text-3xl md:text-4xl mb-6 text-brand-black">
-                Strategic Engineering. Global Impact.
+                Structured Thinking. Real-World Impact.
               </h2>
               <p className="text-brand-gray text-lg leading-relaxed mb-6">
-                As a <strong>Product Solution Engineer</strong> at{" "}
-                <strong>Smart Energy Water</strong>, I drive digital
-                transformation for the energy and water sectors. My focus lies
-                in architecting strategic solutions that address critical
-                utility challenges at a global scale.
+                As a final-year Computer Science student, I bring together leadership, analytical thinking, and problem-solving to tackle real-world challenges.
+
+From coordinating with 30+ corporate stakeholders to leading teams of 100+ members across multiple initiatives, I have consistently worked in high-responsibility environments where execution and clarity matter.
+
+I’m particularly interested in Product and Business Analyst roles, where I can:
+
+Break down complex problems
+Work with data to derive insights
+Build structured, scalable solutions
+
+I focus on clarity over complexity, impact over activity, and outcomes over effort.
               </p>
               <p className="text-brand-gray text-lg leading-relaxed">
                 I bridge the gap between complex technical capabilities and

@@ -4,39 +4,32 @@ import { motion } from "framer-motion";
 const Experience = () => {
   const experiences = [
     {
-      role: "Trainee - Product Solution Engineering",
-      company: "Smart Energy Water (SEW.AI)",
-      period: "Jan 2026 – Present",
+      role: "Executive & Media Member",
+      company: "Training & Placement Cell, GNDEC",
+      period: "Mar 2024 – Present",
       description:
-        "Driving digital transformation for global utility providers.",
+        "Driving campus recruitment operations and stakeholder coordination.",
     },
     {
-      role: "Conference Chair",
-      company: "STELMAR 2025",
-      period: "Feb 2025 – Apr 2025",
+      role: "Convenor",
+      company: "English Club, GNDEC",
+      period: "Mar 2024 – Present",
       description:
-        "Orchestrated the inaugural multidisciplinary research conference, leading a cross-functional team of 80+ members. Managed budget, logistics, and partnerships with Springer Nature, achieving 100% on-plan execution.",
+        "Led 9+ events with 50+ participants each, improving engagement across students and faculty",
     },
     {
-      role: "Operations & Digital Transformation Intern",
-      company: "B.P. Alloys Limited",
-      period: "Jun 2024 – Jul 2024",
+      role: "Hospitality Team Lead",
+      company: "Cultural Committee, GNDEC",
+      period: "Mar 2023 – Present",
       description:
-        "Conducted operational audits and developed a custom ReactJS digital interface to centralize company data. Delivered the solution 2 weeks ahead of schedule with zero post-launch defects.",
+        "Managed hospitality operations for large-scale multi-day festivals",
     },
     {
-      role: "Web Master & Board Member",
-      company: "BMU ACM Student Chapter",
-      period: "Aug 2023 – Apr 2025",
+      role: "Local Organization President",
+      company: "JCI Ludhiana Business Forum",
+      period: "2024 – Present",
       description:
-        "Owned the digital presence (acmbmu.com) ensuring 99.9% uptime. Directed technical teams to deploy real-time updates for major events, streamlining registration for hundreds of participants.",
-    },
-    {
-      role: "Freelance Web Solutions Consultant",
-      company: "SubSaFT",
-      period: "Jul 2024 – Aug 2024",
-      description:
-        "Built and launched a fully SEO-optimized official website for a startup client, handling requirement gathering, design, and final deployment.",
+        "Led a team of 25+ members across business and community initiatives",
     },
   ];
 
